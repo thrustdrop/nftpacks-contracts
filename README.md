@@ -10,9 +10,9 @@ an [ERC 1155](https://eips.ethereum.org/EIPS/eip-1155) for participating in the 
 NFT Packs is powered by [$PACK Protocol](https://nkrishang.gitbook.io/pack-protocol/).
 
 ### Quick Example
-You have 10 ERC 721 NFTs you want to giveaway.
+You have 100 ERC 721 NFTs you want to giveaway.
 
-You bundle those 10 NFTs into a total of 1000 packs and airdrop them
+You bundle those 100 NFTs into a total of 1000 packs and airdrop them
 to an audience.
 
 10% of those packs i.e. 10 packs will yield a reward NFT on opening. The rest
